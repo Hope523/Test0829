@@ -1,4 +1,8 @@
 this is a test
 hello world
 test
-Tthere
+<<<<<<< HEAD
+ithere
+=======
+ithere
+>>>>>>> feature
